@@ -8,9 +8,10 @@ El supermercado **“Aurelion”** registra la información de clientes, product
 Con el objetivo de organizar el stock y optimizar las ventas para las fechas navideñas, se busca centralizar y analizar los datos de forma más eficiente.
 
 ### 🧩 Problemas identificados
-- ¿Qué productos son los más vendidos?  
-- ¿Qué productos tienen bajo stock y requieren reposición?  
-- ¿Qué días o meses tienen mayor volumen de ventas?  
+- Duplicidad de datos y dificultad para actualizarlos.
+- Falta de control sobre el stock disponible.
+- Limitaciones para realizar el análisis de ventas por fechas o temporadas (como por ejemplo, la época navideña).
+Como consecuencia la administración enfrenta retrasos en la toma de decisiones, desabastecimiento o excesos de inventario y poca capacidad para planificar campañas de venta efectivas.
 
 ### 💡 Solución propuesta
 Integrar los archivos de Excel existentes en un mismo entorno de trabajo (**VS Code**) y desarrollar un programa en **Python** que:
