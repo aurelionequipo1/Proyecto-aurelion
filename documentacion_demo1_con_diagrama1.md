@@ -11,6 +11,7 @@ Con el objetivo de organizar el stock y optimizar las ventas para las fechas nav
 - Duplicidad de datos y dificultad para actualizarlos.
 - Falta de control sobre el stock disponible.
 - Limitaciones para realizar el análisis de ventas por fechas o temporadas (como por ejemplo, la época navideña).
+
 Como consecuencia la administración enfrenta retrasos en la toma de decisiones, desabastecimiento o excesos de inventario y poca capacidad para planificar campañas de venta efectivas.
 
 ### 💡 Solución propuesta
